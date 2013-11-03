@@ -29,7 +29,7 @@ namespace fj.BatchSelector
             BatchPB.Visibility = System.Windows.Visibility.Hidden;
             ProgressL.Visibility = System.Windows.Visibility.Hidden;
             var items = getBatchItems();
-            BatchLB.ItemsSource = getBatchItems();
+            BatchLB.ItemsSource = items;
             updateUIFromXml();
             this.Height = items.Count() * (55 + 10) + 108;
         }

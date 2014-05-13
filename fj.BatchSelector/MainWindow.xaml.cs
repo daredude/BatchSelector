@@ -31,7 +31,7 @@ namespace fj.BatchSelector
             var items = getBatchItems();
             BatchLB.ItemsSource = items;
             updateUIFromXml();
-            this.Height = items.Count() * (55 + 10) + 108;
+            this.Height = items.Count() * (25 + 10) + 108;
         }
 
         private void updateUIFromXml()

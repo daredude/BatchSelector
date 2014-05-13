@@ -1,4 +1,10 @@
 ﻿<FileList Title="Choose a location." LoaderMessage="Loading...">
 	<File Label="Berlin"	FileName="berlin.bat" />
 	<File Label="Hamburg"	FileName="hamburg.bat" />
+  <File Label="Berlin"	FileName="berlin.bat" />
+  <File Label="Hamburg"	FileName="hamburg.bat" />
+  <File Label="Berlin"	FileName="berlin.bat" />
+  <File Label="Hamburg"	FileName="hamburg.bat" />
+  <File Label="Berlin"	FileName="berlin.bat" />
+  <File Label="Hamburg"	FileName="hamburg.bat" />
 </FileList>
